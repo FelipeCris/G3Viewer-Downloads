@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "platforms": {
+    "windows": {
+      "tag": "v0.5.0-alpha.12",
+      "version": "0.5.0-alpha.12",
+      "prerelease": true,
+      "publishedAt": "2026-10-26T16:18:16Z",
+      "name": "G3Viewer-Portable-0.5.0-alpha.12-x64.exe",
+      "bytes": 171347267,
+      "sha256": "80af185f77e5e1609550fa607407bc5b36dc4d7ae071ba2b02641c684140e943",
+      "url": "https://github.com/FelipeCris/G3Viewer-Downloads/releases/download/v0.5.0-alpha.12/G3Viewer-Portable-0.5.0-alpha.12-x64.exe"
+    },
+    "macOS": {
+      "tag": "v0.5.0-alpha.3",
+      "version": "0.5.0-alpha.3",
+      "prerelease": true,
+      "publishedAt": "2026-10-23T17:08:40Z",
+      "name": "G3Viewer-macOS-arm64-v0.5.0-alpha.3.zip",
+      "bytes": 133948188,
+      "sha256": "9211fb64328bc80f002e847bae79b90ce2ae502a088224fb4f80a675d28a2f9b",
+      "url": "https://github.com/FelipeCris/G3Viewer-Downloads/releases/download/v0.5.0-alpha.3/G3Viewer-macOS-arm64-v0.5.0-alpha.3.zip"
+    }
+  }
+}
