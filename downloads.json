@@ -30,6 +30,16 @@
       "bytes": 20961,
       "sha256": "54d0833df86a7eb32f34b2167eae93b050068e1a52a246f8fd2a27c34117a295",
       "url": "https://github.com/FelipeCris/G3Viewer-Downloads/releases/download/v0.1.1/G3Relay-Android-0.1.1.apk"
+    },
+    "raspberry": {
+      "tag": "v0.5.0-alpha.23",
+      "version": "0.5.0-alpha.23",
+      "prerelease": true,
+      "publishedAt": "2026-11-17T10:47:40Z",
+      "name": "G3Viewer-Pi4B-arm64-Runtime-v0.5.0-alpha.23.deb",
+      "bytes": 87904024,
+      "sha256": "6654021aa8bb5da9b8642a78932b286866c49dc4520792d668c953217c45aa14",
+      "url": "https://github.com/FelipeCris/G3Viewer-Downloads/releases/download/v0.5.0-alpha.23/G3Viewer-Pi4B-arm64-Runtime-v0.5.0-alpha.23.deb"
     }
   }
 }
