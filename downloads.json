@@ -2,14 +2,14 @@
   "schema": 1,
   "platforms": {
     "windows": {
-      "tag": "v0.5.0-alpha.12",
-      "version": "0.5.0-alpha.12",
+      "tag": "v0.5.0-alpha.22",
+      "version": "0.5.0-alpha.22",
       "prerelease": true,
-      "publishedAt": "2026-10-26T16:18:16Z",
-      "name": "G3Viewer-Portable-0.5.0-alpha.12-x64.exe",
-      "bytes": 171347267,
-      "sha256": "80af185f77e5e1609550fa607407bc5b36dc4d7ae071ba2b02641c684140e943",
-      "url": "https://github.com/FelipeCris/G3Viewer-Downloads/releases/download/v0.5.0-alpha.12/G3Viewer-Portable-0.5.0-alpha.12-x64.exe"
+      "publishedAt": "2026-11-17T09:56:51Z",
+      "name": "G3Viewer-Portable-0.5.0-alpha.22-x64.exe",
+      "bytes": 172955813,
+      "sha256": "7652111e07ffb63fe38592b723f67df285b78d147000cb428938fa18843b961e",
+      "url": "https://github.com/FelipeCris/G3Viewer-Downloads/releases/download/v0.5.0-alpha.22/G3Viewer-Portable-0.5.0-alpha.22-x64.exe"
     },
     "macOS": {
       "tag": "v0.5.0-alpha.3",
@@ -20,6 +20,16 @@
       "bytes": 133948188,
       "sha256": "9211fb64328bc80f002e847bae79b90ce2ae502a088224fb4f80a675d28a2f9b",
       "url": "https://github.com/FelipeCris/G3Viewer-Downloads/releases/download/v0.5.0-alpha.3/G3Viewer-macOS-arm64-v0.5.0-alpha.3.zip"
+    },
+    "android": {
+      "tag": "v0.1.1",
+      "version": "0.1.1",
+      "prerelease": true,
+      "publishedAt": "2026-11-17T09:56:52Z",
+      "name": "G3Relay-Android-0.1.1.apk",
+      "bytes": 20961,
+      "sha256": "54d0833df86a7eb32f34b2167eae93b050068e1a52a246f8fd2a27c34117a295",
+      "url": "https://github.com/FelipeCris/G3Viewer-Downloads/releases/download/v0.1.1/G3Relay-Android-0.1.1.apk"
     }
   }
 }
