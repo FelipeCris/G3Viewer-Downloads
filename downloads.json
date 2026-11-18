@@ -2,24 +2,24 @@
   "schema": 1,
   "platforms": {
     "windows": {
-      "tag": "v0.5.0-alpha.22",
-      "version": "0.5.0-alpha.22",
+      "tag": "v0.5.0-alpha.24",
+      "version": "0.5.0-alpha.24",
       "prerelease": true,
-      "publishedAt": "2026-11-17T09:56:51Z",
-      "name": "G3Viewer-Portable-0.5.0-alpha.22-x64.exe",
-      "bytes": 172955813,
-      "sha256": "7652111e07ffb63fe38592b723f67df285b78d147000cb428938fa18843b961e",
-      "url": "https://github.com/FelipeCris/G3Viewer-Downloads/releases/download/v0.5.0-alpha.22/G3Viewer-Portable-0.5.0-alpha.22-x64.exe"
+      "publishedAt": "2026-11-18T04:55:48Z",
+      "name": "G3Viewer-Portable-0.5.0-alpha.24-x64.exe",
+      "bytes": 173136724,
+      "sha256": "e66d7d301175772b641a4885231a7a98399fee39f14df3f1f7b42b9cf8946e45",
+      "url": "https://github.com/FelipeCris/G3Viewer-Downloads/releases/download/v0.5.0-alpha.24/G3Viewer-Portable-0.5.0-alpha.24-x64.exe"
     },
     "macOS": {
-      "tag": "v0.5.0-alpha.23-macos",
-      "version": "0.5.0-alpha.23-macos",
+      "tag": "v0.5.0-alpha.24",
+      "version": "0.5.0-alpha.24",
       "prerelease": true,
-      "publishedAt": "2026-11-17T20:17:31Z",
-      "name": "G3Viewer-macOS-arm64-v0.5.0-alpha.23-macos.zip",
-      "bytes": 134167582,
-      "sha256": "d2674e8326e3d69ab3dbc0a0d4433a03f8f54623afa94468efbd7c5ea8198f6a",
-      "url": "https://github.com/FelipeCris/G3Viewer-Downloads/releases/download/v0.5.0-alpha.23-macos/G3Viewer-macOS-arm64-v0.5.0-alpha.23-macos.zip"
+      "publishedAt": "2026-11-18T04:55:48Z",
+      "name": "G3Viewer-macOS-arm64-v0.5.0-alpha.24.zip",
+      "bytes": 134297662,
+      "sha256": "902aa3d99080ba01dd6a2f2c9ac31343e3faba7f3c232de418b5d51b24daf6f6",
+      "url": "https://github.com/FelipeCris/G3Viewer-Downloads/releases/download/v0.5.0-alpha.24/G3Viewer-macOS-arm64-v0.5.0-alpha.24.zip"
     },
     "android": {
       "tag": "v0.1.2",
@@ -32,14 +32,14 @@
       "url": "https://github.com/FelipeCris/G3Viewer-Downloads/releases/download/v0.1.2/G3Relay-Android-0.1.2.apk"
     },
     "raspberry": {
-      "tag": "v0.5.0-alpha.23",
-      "version": "0.5.0-alpha.23",
+      "tag": "v0.5.0-alpha.24",
+      "version": "0.5.0-alpha.24",
       "prerelease": true,
-      "publishedAt": "2026-11-17T10:47:40Z",
-      "name": "G3Viewer-Pi4B-arm64-Runtime-v0.5.0-alpha.23.deb",
-      "bytes": 87904024,
-      "sha256": "6654021aa8bb5da9b8642a78932b286866c49dc4520792d668c953217c45aa14",
-      "url": "https://github.com/FelipeCris/G3Viewer-Downloads/releases/download/v0.5.0-alpha.23/G3Viewer-Pi4B-arm64-Runtime-v0.5.0-alpha.23.deb"
+      "publishedAt": "2026-11-18T04:55:48Z",
+      "name": "G3Viewer-Pi4B-arm64-Runtime-v0.5.0-alpha.24.deb",
+      "bytes": 87980320,
+      "sha256": "b658d7bb92a9a055e45c0e18739d2c749204954993dc0144438018391eb6f809",
+      "url": "https://github.com/FelipeCris/G3Viewer-Downloads/releases/download/v0.5.0-alpha.24/G3Viewer-Pi4B-arm64-Runtime-v0.5.0-alpha.24.deb"
     }
   }
 }
