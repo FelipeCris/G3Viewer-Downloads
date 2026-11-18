@@ -22,14 +22,14 @@
       "url": "https://github.com/FelipeCris/G3Viewer-Downloads/releases/download/v0.5.0-alpha.23-macos/G3Viewer-macOS-arm64-v0.5.0-alpha.23-macos.zip"
     },
     "android": {
-      "tag": "v0.1.1",
-      "version": "0.1.1",
+      "tag": "v0.1.2",
+      "version": "0.1.2",
       "prerelease": true,
-      "publishedAt": "2026-11-17T09:56:52Z",
-      "name": "G3Relay-Android-0.1.1.apk",
-      "bytes": 20961,
-      "sha256": "54d0833df86a7eb32f34b2167eae93b050068e1a52a246f8fd2a27c34117a295",
-      "url": "https://github.com/FelipeCris/G3Viewer-Downloads/releases/download/v0.1.1/G3Relay-Android-0.1.1.apk"
+      "publishedAt": "2026-11-18T04:54:50Z",
+      "name": "G3Relay-Android-0.1.2.apk",
+      "bytes": 29321,
+      "sha256": "c079186084ab881dcbaf6ec2ef96c0ac0cb283b85abcb7a9c6d08aab1df1f839",
+      "url": "https://github.com/FelipeCris/G3Viewer-Downloads/releases/download/v0.1.2/G3Relay-Android-0.1.2.apk"
     },
     "raspberry": {
       "tag": "v0.5.0-alpha.23",
